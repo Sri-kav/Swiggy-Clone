@@ -11,6 +11,7 @@ This project is a Swiggy Clone built using HTML, CSS, JavaScript, and Bootstrap.
                FontAwesome
 
 
+
                
-[Download Project Assets](https://drive.google.com/file/d/1NM1N1-fpLSzY8vOt8u3BS7D3ukWHcGFb/view?usp=drivesdk)
+### [Project Video](https://drive.google.com/file/d/1NM1N1-fpLSzY8vOt8u3BS7D3ukWHcGFb/view?usp=drivesdk)
 
